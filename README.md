@@ -10,3 +10,7 @@ Pertemuan 36 - Unit Testing 2 - TSA
 
 ![Screenshoot output](images/widget_test2.PNG)
 
+## Fetch_Album
+
+![Screenshoot output](images/fetch_album.PNG)
+
